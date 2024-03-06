@@ -1,0 +1,1 @@
+If your mac is 10.13, you need to install pyarrow==8.0.0 and datatsets==2.13
